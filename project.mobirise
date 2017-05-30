@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NL",
-    "currentPage": "index.html",
+    "currentPage": "collages.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -86,7 +86,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
@@ -332,6 +332,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0052-1-800x753.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0052-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0043-1-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0043-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0048-2-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0048-2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -612,7 +632,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
