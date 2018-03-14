@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -427,13 +429,14 @@ h6,
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-3 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -781,6 +784,7 @@ h6,
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -797,13 +801,14 @@ h6,
 #menu-k .link,
 #menu-k .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-k .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
