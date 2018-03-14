@@ -475,6 +475,7 @@ h6,
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -491,13 +492,14 @@ h6,
 #menu-9 .link,
 #menu-9 .dropdown-item {
   color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-9 .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
