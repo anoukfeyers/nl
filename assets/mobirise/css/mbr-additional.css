@@ -663,6 +663,7 @@ h6,
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -679,13 +680,14 @@ h6,
 #menu-e .link,
 #menu-e .dropdown-item {
   color: #000000;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-e .link {
-  font-size: 0.75rem;
+  font-size: 0.95rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.029rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -695,19 +697,19 @@ h6,
 }
 #menu-e .link[aria-expanded="true"],
 #menu-e .dropdown-menu {
-  background: #b3b3b3;
+  background: #e6e6e6;
 }
 #menu-e .nav-dropdown-sm .link:focus,
 #menu-e .nav-dropdown-sm .link:hover,
 #menu-e .nav-dropdown-sm .dropdown-item:focus,
 #menu-e .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #f7f7f7!important;
 }
 #menu-e .navbar,
 #menu-e .nav-dropdown-sm,
 #menu-e .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-e .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #ffffff;
 }
 #menu-e .bg-color.transparent .link {
   color: #000000;
@@ -723,10 +725,6 @@ h6,
 #menu-e .link[aria-expanded="true"],
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#slider2-i .mbr-section-title,
-#slider2-i .mbr-section-lead {
-  color: #fff;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -806,7 +804,7 @@ h6,
 #menu-k .link,
 #menu-k .dropdown-item {
   color: #000000;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-k .link {
   font-size: 0.95rem;
@@ -823,19 +821,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #b3b3b3;
+  background: #e6e6e6;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #f7f7f7!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #ffffff;
 }
 #menu-k .bg-color.transparent .link {
   color: #000000;
