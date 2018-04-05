@@ -1342,7 +1342,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1599,8 +1599,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95492.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95495.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10004.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
