@@ -913,6 +913,8 @@ h6,
   color: #c0a375!important;
 }
 
+
+
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -978,4 +980,10 @@ h6,
 #msg-box6-w .mbr-section-title,
 #msg-box6-w .lead p {
   color: #fff;
+}
+#msg-box6-w P {
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box6-w H3 {
+  font-family: 'Roboto', sans-serif;
 }
