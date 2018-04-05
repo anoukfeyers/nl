@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers nl",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -213,8 +213,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-family": "'Open Sans Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -226,13 +226,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1342,7 +1342,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94816.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1599,8 +1599,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95495.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10007.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
