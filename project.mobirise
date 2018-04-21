@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 52,
+    "uniqCompNum": 56,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
@@ -109,7 +109,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -256,7 +256,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -442,7 +442,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -541,7 +541,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -888,7 +888,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -994,6 +994,97 @@
       },
       "components": [
         {
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">De schets &amp; Het werk</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1j",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9417.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9417-800x979.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9432.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9432-602x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9451.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9451-784x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9452.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9452-653x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1h"
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": false,
@@ -1066,10 +1157,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.733rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1105,7 +1196,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "1.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1181,7 +1272,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mg-9927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9553.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1219,7 +1310,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "59",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1264,6 +1355,62 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1b"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "62",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-9553.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1i"
         },
         {
           "_params": {
@@ -1415,7 +1562,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1644,7 +1791,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94816.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1776,7 +1923,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1901,8 +2048,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95495.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x10007.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -1985,7 +2132,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
