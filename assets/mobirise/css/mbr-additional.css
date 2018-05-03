@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -477,7 +479,12 @@ h6,
 }
 #menu-3 A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
+#menu-3 .btn {
+  font-size: 13px;
+}
+
 
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
@@ -498,11 +505,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-9 .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -543,7 +550,12 @@ h6,
 }
 #menu-9 A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
+#menu-9 .btn {
+  font-size: 13px;
+}
+
 
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -564,11 +576,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-a .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -609,7 +621,13 @@ h6,
 }
 #menu-a A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
+#menu-a .btn {
+  font-size: 13px;
+}
+
+
 
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
@@ -630,11 +648,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-c .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -675,17 +693,22 @@ h6,
 }
 #menu-c A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#menu-c .btn {
+  font-size: 13px;
 }
 #header2-16 .mbr-section-text {
   color: #000000;
 }
-#msg-box6-18 .mbr-section-title,
-#msg-box6-18 .lead p {
-  color: #fff;
-}
-#msg-box6-18 P {
+#header2-1u .mbr-section-text {
   color: #000000;
 }
+#slider3-1w SPAN {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
 
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -706,11 +729,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-e .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -751,6 +774,10 @@ h6,
 }
 #menu-e A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#menu-e .btn {
+  font-size: 13px;
 }
 
 
@@ -773,11 +800,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-g .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-g .link:hover,
 #menu-g .dropdown-item:hover,
@@ -818,17 +845,12 @@ h6,
 }
 #menu-g A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
-#header2-19 .mbr-section-text {
-  color: #000000;
+#menu-g .btn {
+  font-size: 13px;
 }
-#header2-1i .mbr-section-text {
-  color: #000000;
-}
-#slider3-1e SPAN {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
+
 
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -849,11 +871,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-k .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
@@ -894,7 +916,12 @@ h6,
 }
 #menu-k A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
+#menu-k .btn {
+  font-size: 13px;
+}
+
 
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -960,7 +987,12 @@ h6,
 }
 #menu-n A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
+#menu-n .btn {
+  font-size: 13px;
+}
+
 
 
 
@@ -983,11 +1015,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-u .link {
-  font-size: 1.6rem;
+  font-size: 0.6rem;
 }
 #menu-u .dropdown-item,
 #menu-u .nav-dropdown-sm .link {
-  font-size: 1.733rem;
+  font-size: 0.650rem;
 }
 #menu-u .link:hover,
 #menu-u .dropdown-item:hover,
@@ -1028,6 +1060,10 @@ h6,
 }
 #menu-u A {
   font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#menu-u .btn {
+  font-size: 13px;
 }
 #msg-box6-w .mbr-section-title,
 #msg-box6-w .lead p {
