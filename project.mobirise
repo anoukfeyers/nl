@@ -849,7 +849,7 @@
             }
           },
           "title": "INTRO WITH IMAGE",
-          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br>&nbsp;De zon",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Thema"
@@ -1601,7 +1601,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94811.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
