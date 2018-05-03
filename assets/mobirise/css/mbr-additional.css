@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -478,8 +478,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-3 A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-3 .btn {
   font-size: 13px;
@@ -549,8 +549,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-9 A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-9 .btn {
   font-size: 13px;
@@ -620,8 +620,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-a A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-a .btn {
   font-size: 13px;
@@ -692,8 +692,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-c A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-c .btn {
   font-size: 13px;
@@ -773,8 +773,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-e A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-e .btn {
   font-size: 13px;
@@ -844,8 +844,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-g A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-g .btn {
   font-size: 13px;
@@ -915,8 +915,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-k A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-k .btn {
   font-size: 13px;
@@ -986,8 +986,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-n A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-n .btn {
   font-size: 13px;
@@ -1059,8 +1059,8 @@ h6,
   color: #c0a375!important;
 }
 #menu-u A {
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu-u .btn {
   font-size: 13px;
