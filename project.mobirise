@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers nl",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,8 +26,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 73,
-    "versionPublish": "4.7.2",
+    "uniqCompNum": 74,
+    "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
     "noImageResize": "true",
@@ -37,7 +37,8 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -391,6 +392,65 @@
           "allItem": "All",
           "_name": "gallery3",
           "_anchor": "gallery3-t"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9532-787x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9533-771x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9532-787x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-21"
         }
       ]
     },
@@ -1710,7 +1770,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-94812.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-94810.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1975,7 +2035,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95493.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95491.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
