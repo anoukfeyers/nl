@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers nl",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 84,
+    "uniqCompNum": 86,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
@@ -71,10 +71,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -102,7 +102,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -118,7 +118,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -127,7 +127,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -226,10 +226,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -257,7 +257,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -273,7 +273,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -282,7 +282,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -583,10 +583,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -614,7 +614,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -630,7 +630,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -639,7 +639,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -761,10 +761,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -792,7 +792,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -808,7 +808,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -817,7 +817,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1297,10 +1297,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1328,7 +1328,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -1344,7 +1344,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1353,7 +1353,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1602,10 +1602,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1633,7 +1633,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -1649,7 +1649,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1658,7 +1658,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1699,6 +1699,115 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-9467.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>De appelboom",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2c"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-9678.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Het weten waard<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-2d"
         }
       ]
     },
@@ -1729,10 +1838,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1760,7 +1869,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -1776,7 +1885,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1785,7 +1894,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2098,10 +2207,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2129,7 +2238,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -2145,7 +2254,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2154,7 +2263,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2270,7 +2379,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95491.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2315,10 +2424,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2346,7 +2455,7 @@
               "color": "#c0a375!important"
             },
             "A": {
-              "font-size": "14px",
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -2362,7 +2471,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2371,7 +2480,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Eerste bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Tweede bachelor Schilderkunst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Derde bachelor Schilderkunst</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">BEGINPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Schilderkunst</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">2018</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Tekeningen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Naaktmodel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">De schets &amp; het werk</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page8.html\">Over mezelf</a></li>",
           "logo": {
             "image": {
               "active": true,
