@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anouk Feyers nl",
-    "currentPage": "page5.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 87,
+    "uniqCompNum": 90,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/img-9412-128x140.png",
@@ -2432,7 +2432,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-95490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-95491.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9549-561x1000.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2447,6 +2447,100 @@
           "allItem": "All",
           "_name": "gallery4",
           "_anchor": "gallery4-13"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "6",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9692.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9692-648x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "../../app/themes/mobirise3/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-96782.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9678-711x1000.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2f"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-96843.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9684-698x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-94814.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9481-653x1000.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2h"
         }
       ]
     },
