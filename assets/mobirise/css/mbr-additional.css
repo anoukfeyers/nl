@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -420,6 +421,8 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-3 .navbar-toggler {
   color: #000000;
@@ -434,11 +437,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-3 .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -486,11 +489,14 @@ h6,
 }
 
 
+
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-9 .navbar-toggler {
   color: #000000;
@@ -505,11 +511,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-9 .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -557,11 +563,14 @@ h6,
 }
 
 
+
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-a .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-a .navbar-toggler {
   color: #000000;
@@ -576,11 +585,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-a .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -629,11 +638,14 @@ h6,
 
 
 
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-c .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-c .navbar-toggler {
   color: #000000;
@@ -648,11 +660,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-c .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-c .dropdown-item,
 #menu-c .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-c .link:hover,
 #menu-c .dropdown-item:hover,
@@ -713,11 +725,14 @@ h6,
 }
 
 
+
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-e .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-e .navbar-toggler {
   color: #000000;
@@ -732,11 +747,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-e .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -784,11 +799,14 @@ h6,
 }
 
 
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-g .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-g .navbar-toggler {
   color: #000000;
@@ -803,11 +821,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-g .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-g .link:hover,
 #menu-g .dropdown-item:hover,
@@ -858,11 +876,14 @@ h6,
 }
 
 
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-k .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-k .navbar-toggler {
   color: #000000;
@@ -877,11 +898,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-k .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-k .dropdown-item,
 #menu-k .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-k .link:hover,
 #menu-k .dropdown-item:hover,
@@ -929,11 +950,14 @@ h6,
 }
 
 
+
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-n .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-n .navbar-toggler {
   color: #000000;
@@ -948,11 +972,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-n .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,
@@ -1002,11 +1026,14 @@ h6,
 
 
 
+
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-u .navbar-caption {
   color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-u .navbar-toggler {
   color: #000000;
@@ -1021,11 +1048,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-u .link {
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 #menu-u .dropdown-item,
 #menu-u .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.029rem;
 }
 #menu-u .link:hover,
 #menu-u .dropdown-item:hover,
